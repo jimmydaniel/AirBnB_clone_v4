@@ -1,2 +1,1 @@
-Group project
-AirBnB clone - Web dynamic
+AirBnB clone - MySQL - v2
